@@ -1,0 +1,7 @@
+Ma hoa don: KH01
+Ten khach hang: Thưc
+So dien thoai: 0987654321
+Dia chi: P6, TPCL
+Ngay tao: 2023-06-13
+Trang thai: Đã thanh toán
+Tong thanh tien: 12000000
